@@ -1,4 +1,4 @@
-package com.zachgrimaldi.helloaaos
+package com.example.helloaaos
 
 import org.junit.Test
 

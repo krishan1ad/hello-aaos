@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.zachgrimaldi.helloaaos"
+    namespace = "com.example.helloaaos"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.zachgrimaldi.helloaaos"
+        applicationId = "com.example.helloaaos"
         minSdk = 28
         targetSdk = 34
         versionCode = 1

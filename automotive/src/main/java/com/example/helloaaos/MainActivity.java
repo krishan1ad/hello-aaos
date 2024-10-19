@@ -1,4 +1,4 @@
-package com.zachgrimaldi.helloaaos;
+package com.example.helloaaos;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
