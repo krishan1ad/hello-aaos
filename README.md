@@ -1,10 +1,12 @@
 # hello-aaos
 
-Hello World simple app for Android Automotive OS (**AAOS**) app using Android Studio. Includes how to create an emulator and run the app on it.
+This is a simple Android Automotive OS template app with instructions on how to create an Android Automotive OS emulator and run the app on it.
 
 <img height="300" src="./docs/00-device-closeup.png">
 
 ## Relevant files
+
+To get better understanding of the changes made to the template app `Automotive > Empty Activity` in Android Studio, please refer to the following files:
 
 - [`AndroidManifest.xml`](./automotive/src/main/AndroidManifest.xml) - Automotive OS specific manifest entries
 - [`automotive_app_desc.xml`](./automotive/src/main/res/xml/automotive_app_desc.xml) - Automotive OS specific app description
